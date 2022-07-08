@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="17.999" viewBox="0 0 16 17.999">
+  <g id="appointment-btn-icon-white" transform="translate(-2383 -227)">
+    <rect id="Rectangle_3330" data-name="Rectangle 3330" width="3.857" height="3.857" transform="translate(2386.885 235.999)" fill="#fff"/>
+    <path id="Path_32792" data-name="Path 32792" d="M2397.511,228.573h-.558v-1.3a.277.277,0,0,0-.278-.276h-1.4a.277.277,0,0,0-.277.276v1.3h-8v-1.3a.277.277,0,0,0-.278-.276h-1.4a.277.277,0,0,0-.278.276v1.3h-.558a1.484,1.484,0,0,0-1.489,1.48V243a1.484,1.484,0,0,0,1.489,1.48h7.814V242.91h-7.814v-9.25h12.464v4.162H2399v-7.77A1.484,1.484,0,0,0,2397.511,228.573Z" transform="translate(0 0)" fill="#fff"/>
+    <path id="Path_32793" data-name="Path 32793" d="M2496,353.48l-5-1.48,1.295,4.9.925-1.388,2.437,2.921,1.173-1.085-2.408-2.761Z" transform="translate(-97.921 -113.437)" fill="#fff"/>
+  </g>
+</svg>

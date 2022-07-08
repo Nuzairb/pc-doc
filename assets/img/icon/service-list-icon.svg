@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 11 11">
+  <g id="service-list-icon" transform="translate(-357 -2217)">
+    <g id="bg" transform="translate(357 2217)" fill="#fff" stroke="#202020" stroke-width="1">
+      <rect width="9" height="9" stroke="none"/>
+      <rect x="0.5" y="0.5" width="8" height="8" fill="none"/>
+    </g>
+    <rect id="bg-2" data-name="bg" width="9" height="9" transform="translate(359 2219)" fill="#ff2c2c"/>
+  </g>
+</svg>
